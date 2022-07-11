@@ -40,3 +40,9 @@ game.make_move('a4','a4') #this will pass the Red's turn and return True
 ```
 
 The file must be named: **JanggiGame.py** and it should not contain any test code outside the main() function. Your code for this project should **not** be made public, in any manner, until after the term has ended.
+
+
+Result: 150/150
+
+
+Feedback: Everything works perfectly. Great job on this assignment and this quarter as a whole!
